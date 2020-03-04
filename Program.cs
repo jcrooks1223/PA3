@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CardShark
+namespace PA3
 {
 
     class Program
